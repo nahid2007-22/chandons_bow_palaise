@@ -1,0 +1,6 @@
+{
+  "appId": "com.nahidhasan.chandonsboupalaise",
+  "appName": "চন্দন এর বউ পালাইছে",
+  "webDir": ".",
+  "server": { "androidScheme": "https" }
+}
